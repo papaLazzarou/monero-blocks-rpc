@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /block/
+Disallow: /browser/
+Sitemap: http://moneroblocks.eu/sitemap.xml
